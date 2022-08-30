@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kj-react-canvas/static/css/main.cfc2b18f.css",
+    "main.js": "/kj-react-canvas/static/js/main.c96c7246.js",
+    "static/js/787.de9db3f7.chunk.js": "/kj-react-canvas/static/js/787.de9db3f7.chunk.js",
+    "static/media/canvas-tablet.png": "/kj-react-canvas/static/media/canvas-tablet.464ad051fbd59f683e02.png",
+    "static/media/art.jpg": "/kj-react-canvas/static/media/art.3a5e074685d45874caac.jpg",
+    "static/media/molloy-student-tour.jpg": "/kj-react-canvas/static/media/molloy-student-tour.c3fab8bec91ae157f166.jpg",
+    "static/media/tattoo-history.jpg": "/kj-react-canvas/static/media/tattoo-history.125f166e5ae623105589.jpg",
+    "static/media/capstone.jpg": "/kj-react-canvas/static/media/capstone.4bc6221ee7790a8dabbe.jpg",
+    "static/media/accounting.jpg": "/kj-react-canvas/static/media/accounting.8d808bbf23ec4ae322ce.jpg",
+    "static/media/canvas-logo-wordless.png": "/kj-react-canvas/static/media/canvas-logo-wordless.e34500baacb99e129889.png",
+    "static/media/canvasLogoo.jpeg": "/kj-react-canvas/static/media/canvasLogoo.541847d2856d67951bcc.jpeg",
+    "index.html": "/kj-react-canvas/index.html",
+    "main.cfc2b18f.css.map": "/kj-react-canvas/static/css/main.cfc2b18f.css.map",
+    "main.c96c7246.js.map": "/kj-react-canvas/static/js/main.c96c7246.js.map",
+    "787.de9db3f7.chunk.js.map": "/kj-react-canvas/static/js/787.de9db3f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfc2b18f.css",
+    "static/js/main.c96c7246.js"
+  ]
+}
