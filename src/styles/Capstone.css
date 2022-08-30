@@ -1,0 +1,12 @@
+.capstone-header {
+  background-color: cornflowerblue;
+  padding: 10px;
+  text-align: center;
+}
+
+.capstone-cell {
+  background-color: skyblue;
+  border: 3px solid indigo;
+  margin: 0 50px;
+  padding: 10px;
+}

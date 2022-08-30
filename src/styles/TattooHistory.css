@@ -1,0 +1,12 @@
+.tattoo-header {
+  background-color: yellow;
+  padding: 10px;
+  text-align: center;
+}
+
+.tattoo-cell {
+  background-color: gold;
+  border: 3px solid orange;
+  margin: 0 50px;
+  padding: 10px;
+}

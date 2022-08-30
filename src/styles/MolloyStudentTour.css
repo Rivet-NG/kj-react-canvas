@@ -1,0 +1,12 @@
+.mst-header {
+  background-color: seagreen;
+  padding: 10px;
+  text-align: center;
+}
+
+.mst-cell {
+  background-color: limegreen;
+  border: 3px solid forestgreen;
+  margin: 0 50px;
+  padding: 10px;
+}

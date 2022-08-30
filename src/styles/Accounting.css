@@ -1,0 +1,12 @@
+.accounting-header {
+  background-color: gray;
+  padding: 10px;
+  text-align: center;
+}
+
+.accounting-cell {
+  background-color: silver;
+  border: 3px solid black;
+  margin: 0 50px;
+  padding: 10px;
+}
