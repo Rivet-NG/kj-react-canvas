@@ -6,5 +6,5 @@ export const TattooList = [
   {
     assignmentTitle: "Tattoo 2",
     dueDate: "Sep 14, 2022 23:59:59"
-  }
+  },
 ];

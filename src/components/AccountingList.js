@@ -26,5 +26,5 @@ export const AccountingList = [
   {
     assignmentTitle: "Accounting 7",
     dueDate: "Sep 7, 2022 23:59:59"
-  }
+  },
 ];
