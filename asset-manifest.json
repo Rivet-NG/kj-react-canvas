@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kj-react-canvas/static/css/main.cfc2b18f.css",
-    "main.js": "/kj-react-canvas/static/js/main.c96c7246.js",
+    "main.js": "/kj-react-canvas/static/js/main.2e8c249b.js",
     "static/js/787.de9db3f7.chunk.js": "/kj-react-canvas/static/js/787.de9db3f7.chunk.js",
     "static/media/canvas-tablet.png": "/kj-react-canvas/static/media/canvas-tablet.464ad051fbd59f683e02.png",
     "static/media/art.jpg": "/kj-react-canvas/static/media/art.3a5e074685d45874caac.jpg",
@@ -13,11 +13,11 @@
     "static/media/canvasLogoo.jpeg": "/kj-react-canvas/static/media/canvasLogoo.541847d2856d67951bcc.jpeg",
     "index.html": "/kj-react-canvas/index.html",
     "main.cfc2b18f.css.map": "/kj-react-canvas/static/css/main.cfc2b18f.css.map",
-    "main.c96c7246.js.map": "/kj-react-canvas/static/js/main.c96c7246.js.map",
+    "main.2e8c249b.js.map": "/kj-react-canvas/static/js/main.2e8c249b.js.map",
     "787.de9db3f7.chunk.js.map": "/kj-react-canvas/static/js/787.de9db3f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfc2b18f.css",
-    "static/js/main.c96c7246.js"
+    "static/js/main.2e8c249b.js"
   ]
 }
